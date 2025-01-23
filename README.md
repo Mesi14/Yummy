@@ -13,11 +13,11 @@ A recipe page for how to make an omlette.
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](./Asssets/Images/fullpage_screenshot.jpg)
 
 ## Live version
 
-For the live version of this project please visit the following [link]()
+For the live version of this project please visit the following [link](https://mesi14.github.io/Yummy/)
 
 ## Get_started
 
