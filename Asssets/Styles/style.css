@@ -23,7 +23,7 @@ body {
     flex-direction: column;
 }
 
-#omletteImg {
+.omletteImg {
     width: 100%;
     border-radius: .9375rem;
 }
